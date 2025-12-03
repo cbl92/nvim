@@ -117,6 +117,7 @@ return {
                 "scss",
                 "pug",
                 "typescriptreact",
+                "Python",
             },
             init_options = {
                 includeLanguages = {},

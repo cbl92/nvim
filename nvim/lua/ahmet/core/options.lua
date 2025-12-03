@@ -14,16 +14,16 @@ vim.o.swapfile = false
 vim.o.backup = false
 vim.o.undofile = true
 
-vim.o.incsearch = true 
+vim.o.incsearch = true
 vim.o.inccommand = "split"
 vim.o.ignorecase = true
 vim.o.smartcase = true
 
-vim.opt.backspace = {"start", "eol", "indent" }  
+vim.opt.backspace = {"start", "eol", "indent" }
 
 vim.o.splitright = true
 vim.o.splitbelow = true
 
 
-vim.opt.clipboard:append("unnamedplus") 
+vim.opt.clipboard:append("unnamedplus")
 
